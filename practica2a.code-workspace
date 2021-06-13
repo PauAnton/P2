@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "Pr7",
+			"path": "..\\Pr7"
+		},
+		{
+			"name": "proyecto",
+			"path": "..\\proyecto"
+		},
+		{
+			"name": "Proves_proyecto",
+			"path": "..\\Proves_proyecto"
+		},
+		{
+			"path": "..\\PRACTICA_7_1_AlbertCambras"
+		},
+		{
+			"path": "..\\Bluetooth_test"
+		},
+		{
+			"name": "Bluetoothspeaker",
+			"path": "..\\Bluetoothspeaker"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp",
+			"*.tcc": "cpp",
+			"algorithm": "cpp"
+		}
+	}
+}
